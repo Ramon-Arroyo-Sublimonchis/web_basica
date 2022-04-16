@@ -1,7 +1,20 @@
-h1 {
-	color: blueviolet;
+#primero{
+	color:royalblue;
+	font-size:70px;	
 }
 
-a {
-	color: greenyellow;
+.otro{
+	font-size:25px;
+	color:yellowgreen;
+	background-color:grey;
+}
+
+.nuevo{
+	font-size:35px;
+	color:burlywood;
+	background-color:hotpink;
+}
+
+.aliniacion{
+	text-align:center;
 }
