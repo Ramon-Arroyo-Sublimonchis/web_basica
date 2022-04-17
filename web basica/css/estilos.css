@@ -1,0 +1,23 @@
+#primero{
+	color:rgb(0, 255, 0);
+	font-size:70px;
+	background-color:darkred;
+	margin: 100px;
+}
+
+.otro{
+	font-size:25px;
+	color:yellowgreen;
+	background-color:rgb(241, 0, 134);
+	padding: 100px;
+}
+
+.nuevo{
+	font-size:35px;
+	color:burlywood;
+	background-color:hotpink;
+}
+
+.aliniacion{
+	text-align:center;
+}
