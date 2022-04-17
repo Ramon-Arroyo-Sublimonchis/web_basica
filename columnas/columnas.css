@@ -1,0 +1,35 @@
+nav{
+	background-color: blueviolet;
+	padding: 20px;
+
+
+}
+
+nav a:link {
+	color: white;
+	font-size:24px;
+}
+
+.padre{
+	display: flex;
+}
+
+
+.columna{
+	background-color: rebeccapurple;
+	color: white;
+	padding: 20px;
+	width: 25%;
+	margin: 15px;
+	text-align: center;
+}
+
+button{
+	background:violet;
+	color:yellowgreen ;
+}
+
+button:hover{
+	background-color: yellowgreen;
+	color:black ;
+}
